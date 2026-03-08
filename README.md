@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://painel-contratos-ascom.streamlit.app)
+
 # Painel de Contratos – ASCOM (ARTESP)
 
 MVP para gestão de contratos e pagamentos da comunicação – ARTESP.
@@ -7,6 +9,14 @@ Centralizar o controle de:
 - Vigência de contratos (alertas por prazo)
 - Pagamentos (vencimentos, atrasos e status)
 - Detalhes por contrato (fornecedor, contato, etc.)
+
+## 🚀 Acesso ao aplicativo
+
+O painel pode ser acessado online pelo link:
+
+🔗 https://painel-contratos-ascom.streamlit.app
+
+Aplicação hospedada no Streamlit Cloud.
 
 ## 🧱 Tecnologias
 - Python
