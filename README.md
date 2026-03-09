@@ -21,6 +21,17 @@ Gestão de Contratos e SEI
 - Detalhamento de Modalidade: Diferenciação entre Concorrência, Pregão, Dispensa e Inexigibilidade.
 - Monitoramento de Status: Acompanhamento desde a fase de elaboração e análise (CJ) até a vigência plena.
 
+## Controle Financeiro de Pagamentos
+
+- Fluxo de Caixa: Monitoramento de Notas Fiscais, Datas de Emissão e Vencimentos.
+- Indicadores de Performance: Classificação automática de pagamentos como "Pago em dia", "Pago com atraso" ou "Vencido".
+- Dados de Liquidação: Registro de números de Empenho, Requisição e Medição por parcela.
+
+Deep Dive: Detalhes do Contrato
+- Dados Cadastrais: CNPJ, Valor Global e Valor Mensal previsto.
+- Contatos Diretos: E-mail e telefone dos representantes dos fornecedores.
+- Equipe Responsável: Identificação nominal do Gestor e do Fiscal Técnico do contrato.
+
 ## 🚀 Acesso ao aplicativo
 
 O painel pode ser acessado online pelo link:
