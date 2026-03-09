@@ -10,6 +10,17 @@ Centralizar o controle de:
 - Pagamentos (vencimentos, atrasos e status)
 - Detalhes por contrato (fornecedor, contato, etc.)
 
+## ✨ Funcionalidades Principais
+
+Contadores em Tempo Real
+- Alertas de Criticidade: Identificação imediata de contratos ou pagamentos vencidos.
+- Linha do Tempo de Vigência: Tabela com sinalização em verde, amarelo e vermelho, indicando os dias restantes para o término do contrato.
+
+Gestão de Contratos e SEI
+- Rastreabilidade: Vinculação direta com o número do processo no sistema SEI.
+- Detalhamento de Modalidade: Diferenciação entre Concorrência, Pregão, Dispensa e Inexigibilidade.
+- Monitoramento de Status: Acompanhamento desde a fase de elaboração e análise (CJ) até a vigência plena.
+
 ## 🚀 Acesso ao aplicativo
 
 O painel pode ser acessado online pelo link:
